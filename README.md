@@ -1,4 +1,4 @@
-# The Crow Job: Pygame Starter
+# The Crow Job: Pygame Starter (OUTDATED)
 
 A small top-down stealth-and-looting prototype. The graphics are placeholder shapes so you can replace them with your own pixel art.
 
